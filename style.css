@@ -1,0 +1,5 @@
+img{border:ridge 10px orange;padding: 9px;margin: 12px;background-color: cyan;border-radius: 10px 100px 10px 100px;transform: rotate(50deg);}
+body{background-color: beige}
+span{text-decoration: line-through;font-size: 25px;transform: rotate(100deg);}
+.offer{font-size: 70px;text-decoration: underline;transform: rotate(-50deg);}
+.picture{font-size: 48px;transform: rotate(20deg);}
